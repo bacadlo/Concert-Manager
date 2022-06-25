@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973609987365",
+    "project_id": "se350concerts",
+    "storage_bucket": "se350concerts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973609987365:android:4012daf33bf8be3cecfecc",
+        "android_client_info": {
+          "package_name": "com.se350concerts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973609987365-gl7i4njkecf0d11dsbij44p7qefmtcpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.se350concerts",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "973609987365-9pmjdpiugj5u0v67ck6isb4rmfjigrhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHgTO6HJhMLVJ-Gzf1UExxVo5as7kqwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973609987365-9pmjdpiugj5u0v67ck6isb4rmfjigrhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
