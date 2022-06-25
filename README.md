@@ -1,2 +1,4 @@
 # Concert-Manager
-A React-Native app that lets organizers create concert events
+A [React-Native](https://reactnative.dev/) app that creates concert events
+
+##[Demo](https://youtu.be/i96wmekBOOM)
